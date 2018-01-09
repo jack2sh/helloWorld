@@ -1,5 +1,3 @@
-# helloWorld
-first repository
 ##《Battery Model Parameter Estimation Using a Layered Technique: An Example Using a Lithium Iron Phosphate Cell》##
 **电池模型参数预测**
 > This challenge is addressed using a layered approach to break
